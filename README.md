@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wanchengyo
+- 👋 Hi, I’m @LGD-Ame
 - 👀 I’m interested in Python3,VBA,SQL,BI and some other practical skills at work.
 - 🌱 I’m currently learning Python3.
 - 💞️ I’m looking to collaborate on myself...
